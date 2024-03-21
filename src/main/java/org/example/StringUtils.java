@@ -1,6 +1,7 @@
 package org.example;
 
 import org.jetbrains.annotations.NotNull;
+
 public class StringUtils {
     public static boolean isPalindrome(@NotNull String text){
         final int length = text.length();
