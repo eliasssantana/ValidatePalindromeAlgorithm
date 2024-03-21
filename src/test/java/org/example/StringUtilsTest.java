@@ -8,7 +8,6 @@ public class StringUtilsTest {
 
     @Test
     public void isNotPalindrome(){
-
         assertFalse(StringUtils.isPalindrome("2f1"));
         assertFalse(StringUtils.isPalindrome("-101"));
     }
