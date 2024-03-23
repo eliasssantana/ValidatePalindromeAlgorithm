@@ -44,21 +44,4 @@ public class PalindromeStep {
         assertFalse(result);
     }
 
-//    @Given("I provide a polindrome string")
-//    public void i_provide_a_polindrome_string() {
-//        inputString = "radar";
-//    }
-//
-//    @When("the isPolindrome method is executed")
-//    public void the_is_polindrome_method_is_executed() {
-//        // Write code here that turns the phrase above into concrete actions
-//        throw new io.cucumber.java.PendingException();
-//    }
-//
-//    @Then("the result should be true")
-//    public void the_result_should_be_true() {
-//        // Write code here that turns the phrase above into concrete actions
-//        throw new io.cucumber.java.PendingException();
-//    }
-
 }

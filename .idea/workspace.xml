@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="59d0dcdb-a760-494c-b5d4-3bafcd9676b4" name="Changes" comment="Create a palindrome validator">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/hellocucumber/PalindromeStep.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/hellocucumber/palindrome.feature" afterDir="false" />
+    <list default="true" id="59d0dcdb-a760-494c-b5d4-3bafcd9676b4" name="Changes" comment="Add BDD tests with cucumber">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/hellocucumber/PalindromeStep.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/hellocucumber/PalindromeStep.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -287,7 +284,15 @@
       <option name="project" value="LOCAL" />
       <updated>1711069070268</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Add BDD tests with cucumber">
+      <option name="closed" value="true" />
+      <created>1711158923749</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1711158923749</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -303,7 +308,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Create a palindrome validator" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create a palindrome validator" />
+    <MESSAGE value="Add BDD tests with cucumber" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add BDD tests with cucumber" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/ValidatePolindromeAlgorithm$Feature__palindrome.ic" NAME="Feature: palindrome Coverage Results" MODIFIED="1711155979877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
